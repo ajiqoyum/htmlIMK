@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+body{
+margin: 0px;
+}
+a {
+color: #edf0f1;
+}
+li, h1, h2, h3, p, a {
+font-family: 'Montserrat', sans-serif;
+}
+header {
+display : flex;
+justify-content: flex-end;
+align-items: center;
+background-color: #373A36;
+}
+footer {
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.fotokecil {
+margin-right : auto;
+}
+}
+.Listmenu {
+list-style : none;
+}
+
+.Listmenu li {
+display: inline-block;
+padding: 0px 10px;
+}
+.menubawahtrue{
+background-color: #373A36;
+}
+.menubawah1{
+margin-right: auto;
+margin-left:auto;
+align-items: center;
+}
+.Listmenubawah{
+margin-bottom:0px;
+list-style: none;
+justify-content: flex-end;
+}
+.Listmenubawah li{
+display: inline-block;
+padding: 0px 10px
+}
+.menubawah2{
+margin-right: auto;
+margin-left:auto;
+}
+.Listmenusosmed{
+margin-top: 0px;
+list-style: none;
+}
+.Listmenusosmed li{
+align-items: center;
+display: inline-block;
+padding: 0px 10px
+}
+.awalan {
+background-color :#b9bbbb;
+padding-bottom: 140px;
+}
+
+.awalan h1 {
+text-align: center;
+margin: 0px;
+}
+.awalan h3{
+text-align: center;
+margin-top: 20px;
+margin-bottom: 00px;
+}
+.awalan img{
+height: 300px;
+display: block;
+margin-top:70px;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+.profil {
+padding-bottom: 120px;
+background-color: #f2efe9;
+}
+.profil img{
+height: 350px;
+display: block;
+margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+}
+.profil h2{
+text-align: center;
+}
+.profil p{
+text-align:center;
+width : 70%;
+margin-left: auto;
+margin-right: auto;
+}
+.profildtl h1 {
+margin: 0px;
+text-align: center;
+padding-bottom: 50px;
+}
+.profildtl img {
+height: 200px;
+width: 200px;
+float: left;
+}
+.profildtl h2 {
+float: center;
+}
+.profildtl p{
+width:700px;
+float: center;
+}
+.profildtl {
+padding-bottom: 120px;
+background-color: #f2efe9;
+}
+.organisasi {
+background-color: #f2efe9;
+padding-top: 100px;
+padding-bottom:120px;
+}
+.organisasi h2 {
+padding-left: 150px;
+float: center;
+}
+.organisasi p {
+padding-left:150px;
+float: center;
+}
+.organisasi img{
+padding-right: 70px;
+height: 200px;
+width: 200px;
+float: right;
+}
+.kompetensi {
+background-color: #f2efe9;
+padding-top: 100px;
+padding-bottom: 120px;
+}
+.kompetensi img {
+height: 200px;
+width: 200px;
+float: left;
+}
+.kompetensi h2{
+float: center;
+}
+.kompetensi p {
+width:700px;
+float:center;
+}
